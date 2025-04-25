@@ -1,64 +1,140 @@
+career-profile:
+  title: ÜBER MICH
+  summary: |
+    - **Promotionsstudent in Agrobioinformatik**
+    - Begeistert von der Entdeckung biologischer Erkenntnisse in der Pflanzenwissenschaft durch den Einsatz von **statistischen und maschinellen Lernmethoden** zur Förderung der Landwirtschaft
+    - Erfahrung in der Entwicklung von **optimierten Workflows** zur Extraktion **hochkurierter genomischer Daten**
+    - **[Preisgekrönter mehrsprachiger Kommunikator](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+
+experiences:
+  title: Berufserfahrung
+  info:
+    - role: "Wissenschaftlicher Mitarbeiter (Promotionsstudent)"
+      time: "März 2022 – Feb 2025"
+      company: "Justus Liebig University (JLU)"
+      details: |
+        - Anwendung **[fortgeschrittener Machine Learning-Algorithmen](https://jamonterotena.github.io/ML-reports/)** zur Lösung einer hochkomplexen biologischen Fragestellung: das Rekombinationsmuster in *Brassica napus*
+        - Entwicklung **[neuer bioinformatischer Werkzeuge](https://github.com/GoliczGenomeLab/haploMAGIC)** zur genomischen Rekombinationsanalyse, was zu **[hochkarätigen Publikationen](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)** führte
+        - Entwicklung von **NGS-Analyse-Workflows** für Variantenerkennung
+        - Präsentation der Forschung auf führenden Konferenzen, Auszeichnung mit **[Bester Studentenbeitrag auf dem IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+        - Betreuung eines Masterstudenten mit positivem Feedback ([Empfehlungsschreiben ansehen](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+        - Zusammenarbeit mit einem **[großen multidisziplinären Team](https://www.irtg2843.de/about)** von Züchtern, Datenwissenschaftlern und Bioinformatikern
+    - role: "Wissenschaftliche Hilfskraft (Postgraduiertenstudent)"
+      time: "Dez 2021 - Feb 2022"
+      company: "Justus Liebig University (JLU)"
+      details: |
+        - Aufbau von **bioinformatischen Pipelines** in Zusammenarbeit mit dem Ackerbohnen-Pangenom-Konsortium (Orthologenidentifikation, Sequenzalignment, RNA-seq)
+    - role: "Industriepraktikum"
+      time: "März 2021 – April 2021"
+      company: "Deutsche Saatveredelung (DSV)"
+      details: |
+        - Mitarbeit im molekularbiologischen Zuchtlabor
+    - role: "Naturwissenschaftslehrer"
+      time: "Sep 2018 – Jul 2019"
+      company: "Holmer Green Senior School (HGSS)"
+      details: |
+        - Unterricht in Naturwissenschaften (Physik, Chemie und Biologie) für Schüler der Klassen 9 bis 11
+        - Betreuung von praktischen wissenschaftlichen Unterrichtseinheiten
+        - Bewertung von Aufgaben und Prüfungen
+        - **Regelmäßige Kommunikation mit Eltern und Kollegen**
+    - role: "Studentische Hilfskraft (Bachelor)"
+      company: "University of Extremadura"
+      time: "Juni 2014 - Juni 2014"
+      details:
+    - role: "Freiwilliger Assistent"
+      time: "Aug 2016 - Sep 2016"
+      company: "Hostelling Scotland (SYHA)"
+      details: |
+
+education:
+  title: Ausbildung
+  info:
+    - degree: "Promotion in Agrobioinformatik"
+      university: "Justus Liebig University (JLU)"
+      time: "März 2022 – Gegenwart"
+      details: |
+        - Thema: Definition des globalen Rekombinationsmusters in *Brassica napus* (siehe *Berufserfahrung* für weitere Informationen)
+    - degree: "Master in Agrobiotechnologie"
+      university: "Justus Liebig University (JLU)"
+      time: "Okt 2019 – Okt 2021"
+      details: |
+        - Praktische Erfahrung in R-Programmierung und NGS-basierter Variantenerkennung ([Siehe Abschlussarbeit](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis))
+    - degree: "Master in Lehrerausbildung für Sekundarstufe"
+      university: "University of Extremadura (UEx)"
+      time: "Okt 2017 – Jun 2018"
+      details:
+    - degree: "Bachelor in Biochemie"
+      university: "University of Sevilla (US)"
+      time: "Sep 2013 – Jul 2017"
+      details: |
+        - Regelmäßige Teilnahme an verschiedenen Laborpraktika
+        - Abschlussarbeit: Biochemische und physiologische Auswirkungen von Ozon auf *Capsicum annuum* ([Siehe Manuskript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+
+publications:
+  title: Veröffentlichungen
+  papers:
+    - title: "CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed (SUBMITTED)"
+      authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
+      conference: "In Begutachtung"
+    - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite genotyping errors"
+      authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
+      conference: "G3 (Bethesda) (2024)"
+      link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
+    - title: "Mündliche Präsentation (Video ansehen): haploMAGIC: Phasing and detecting recombination in multiparental populations (awarded prize to best oral presentation)"
+      authors: "Montero-Tena JA"
+      conference: "IRC International Rapeseed Congress, Sydney, Australia (24 – 27 Sep 2023)"
+      link: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s
+    - title: "Poster: Generating genome-wide recombination maps using SNP genotyping"
+      authors: "Montero-Tena JA"
+      journal: "GPZ German Plant Breeding Conference, Düsseldorf, Germany"
+      date: "12 – 14 Sep 2022"
+      link: https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop
+
+recommendations:
+  title: Empfehlungen
+  list:
+    - person: Prof. Dr. Agnieszka A Golicz
+      email: Agnieszka.Golicz@agrar.uni-giessen.de
+      phone: +496419937432
+      role: Professorin für Agrobioinformatik an der Justus Liebig University
+      recommendation: |
+        *"Jose hat eine echte Fähigkeit gezeigt, sich in unterschiedlichen Umgebungen gut einzufügen und zu einem unterstützenden Umfeld beizutragen"* ([Empfehlungsschreiben ansehen](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+
 certifications:
   title: Zertifikate
   list:
     - name: "Workshop: Standardisierung und Harmonisierung von NGS-Analyse-Workflows"
       start: "Sep 2024"
-      end:
       organization: "German Conference of Bioinformatics, Bielefeld, Germany"
-      credentialid:
       credentialurl: www.gcb2024.de/
-      credentialname: Link
-      details: |
     - name: "Workshop: Maschinelles Lernen mit tidymodels"
       start: "Aug 2024"
-      end:
       organization: "Posit Conference, Seattle, USA"
-      credentialid:
-      credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL?utm_source=share&utm_medium=member_desktop
-      credentialname: Link
-      details: |
+      credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024
     - name: "DataCamp-Kurse (x18) zu Python, R und Shell: Grundlagen der Programmierung, Datenmanipulation, Statistik und Machine Learning"
       start: 2022
-      end:
       organization: "datacamp"
-      credentialid:
       credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
-      credentialname: Link
-      details: |
     - name: "Pflanzengewebekultur und genetische Transformation"
       start: "April 2020"
-      end: 
       organization: "JLU, Giessen, Germany"
-      credentialid:
       credentialurl: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
-      credentialname: Link
-      details: |
     - name: "Bioinformatik für Anfänger"
       start: "Sep 2021"
-      end:
       organization: "Coursera, UC San Diego"
-      credentialid:
-      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-biology-meets-activity-6841831236089065472-7bwX?utm_source=share&utm_medium=member_desktop
-      credentialname: Link
-      details: |
+      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-biology-meets
     - name: "Ganzgenomsequenzierung bakterieller Genome"
       start: "Sep 2021"
-      end:
       organization: "Coursera, TU Denmark"
-      credentialid:
-      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV?utm_source=share&utm_medium=member_desktop
-      credentialname: Link
-      details: |
+      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing
 
 sidebar:
   position: left
   about: False
   education: False
-
   name: Jose Montero
   tagline: Data Science | Pflanzengenomik
   avatar: agrobioinformatics.jpg
-
   fullname: "Montero Tena, José Antonio"
   citizenship: Spanisch
   timezone: Europe/Berlin
@@ -67,7 +143,6 @@ sidebar:
   github: jamonterotena
   phone: +34 603 769 969
   certificates: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
-
   languages:
     title: Sprachen
     info:
@@ -79,7 +154,6 @@ sidebar:
         level: ★★★☆☆
       - idiom: Italienisch
         level: ★★☆☆☆
-
   skills_sidebar:
     title: Fähigkeiten
     categories:
@@ -139,7 +213,6 @@ sidebar:
         info:
           - idiom: Führerschein Klasse B
             level: ★★★★★
-
   interests:
     title: Interessen
     info:
